@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+}
+
+#Home{
+    background-color:rgb(222, 240, 246);
+    animation-name:home;
+    animation: duration 9s;
+}
+
+@keyframes home{
+    from{color:black;}
+    to{color:brown;}
+}
+
+#About{
+    background-color: rgb(252, 246, 238);
+}
+
+#skills{
+    background-color:rgb(247, 227, 230);
+}
+
+#projects{
+    background-color:rgb(222, 240, 246);
+}
+
+#internship{
+    background-color: rgb(252, 246, 238);
+}
+
+#platforms{
+    background-color:rgb(247, 227, 230);
+}
+
+#Contact{
+    background-color: rgb(236, 234, 234);
+}
